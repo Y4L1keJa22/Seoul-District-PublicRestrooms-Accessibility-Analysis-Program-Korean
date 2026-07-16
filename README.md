@@ -3,14 +3,16 @@
 
 필수 준비:
 
-1.
+1. 아래에 제공한 활용 데이터 출처 링크들을 접속 -> 활용 데이터 다운로드. 정확성을 위해 데이터 양이 워낙 커서 참고하시기 바랍니다.
+2. 다운로드해야할 활용 데이터: toilet_score.csv, toilet_score_report.html, dong_boundary_1.geojson, 서울시 공중화장실 위치정보.csv, 서울시 공중화장실 위치정보.json, 자치구 단위 서울 생활인구(내국인).csv, 집계구 단위 서울 생활인구(내국인).csv
+3. 파일/폴더들 옆에 일반적인 파이썬 venv 만들기
 
-*파일 실행 방법* (cmd 터미널에서 부모 폴더 위치[=팀프로젝트_빅분개]):
+*파일 실행 방법* (cmd 터미널에서 파일/폴더들보다 높은 부모 디렉터리에 있는 상태):
 
-1. 팀프로젝트_빅분개/팀프로젝트_빅분개/projectEnvironment/Scripts/activate
-=> (팀프로젝트_빅분개 디렉터리에 있는 상태) cd projectEnvironment => cd Scripts => activate
+1. 팀프로젝트_빅분개/projectEnvironment/Scripts/activate
+=> (부모 디렉터리인 팀프로젝트_빅분개 디렉터리에 있는 상태) cd projectEnvironment => cd Scripts => activate
 
-2. (다시 팀프로젝트_빅분개 디렉터리에 있는 상태) streamlit run ancient_monarch.py
+2. (cd ../../해서 다시 팀프로젝트_빅분개 디렉터리에 있는 상태) streamlit run ancient_monarch.py
 cmd 터미널에 이렇게 출력될 것입니다
 =>
 날짜 시간 Uvicorn server started on IP주소:포트
