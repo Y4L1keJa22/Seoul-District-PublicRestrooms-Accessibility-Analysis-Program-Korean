@@ -4,7 +4,7 @@
 필수 준비:
 
 1. 아래에 제공한 활용 데이터 출처 링크들을 접속 -> 활용 데이터 다운로드. 정확성을 위해 데이터 양이 워낙 커서 참고하시기 바랍니다.
-2. 다운로드해야할 활용 데이터: toilet_score.csv, toilet_score_report.html, dong_boundary_1.geojson, 서울시 공중화장실 위치정보.csv, 서울시 공중화장실 위치정보.json, 자치구 단위 서울 생활인구(내국인).csv, 집계구 단위 서울 생활인구(내국인).csv
+2. 다운로드해야할 활용 데이터: toilet_score.csv, toilet_score_report.html, dong_boundary_1.geojson, 서울시 공중화장실 위치정보.csv, 서울시 공중화장실 위치정보.json, 자치구 단위 서울 생활인구(내국인).csv, 집계구 단위 서울 생활인구(내국인).csv = 총 7개입니다
 3. 파일/폴더들 옆에 일반적인 파이썬 venv 만들기
 
 *파일 실행 방법* (cmd 터미널에서 파일/폴더들보다 높은 부모 디렉터리에 있는 상태):
@@ -40,6 +40,12 @@ https://data.seoul.go.kr/dataList/OA-14979/F/1/datasetView.do
 
 https://data.seoul.go.kr/bsp/wgs/dataView/data300View/10080.do
 - 서울 행정구역 법정동 경계 데이터(지도 시각화, 법정동 목록, 자치구 집계)
+
+실행 결과:
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/72ff1fb7-9c70-4f66-af00-86bae8fe24a4" />
+<img width="941" height="352" alt="image" src="https://github.com/user-attachments/assets/70351904-0bfe-4183-a408-92144019a8e2" />
+<img width="922" height="373" alt="image" src="https://github.com/user-attachments/assets/f697d3c7-5574-43a5-af7c-9e9f68790e1f" />
+
 
 최근 수정일: 2026년 6월 15일
 
