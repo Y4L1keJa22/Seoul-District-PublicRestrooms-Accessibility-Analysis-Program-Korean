@@ -45,6 +45,7 @@ https://data.seoul.go.kr/bsp/wgs/dataView/data300View/10080.do
 <img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/72ff1fb7-9c70-4f66-af00-86bae8fe24a4" />
 <img width="941" height="352" alt="image" src="https://github.com/user-attachments/assets/70351904-0bfe-4183-a408-92144019a8e2" />
 <img width="922" height="373" alt="image" src="https://github.com/user-attachments/assets/f697d3c7-5574-43a5-af7c-9e9f68790e1f" />
+<img width="911" height="224" alt="image" src="https://github.com/user-attachments/assets/eeec2bad-e218-4f03-9cf0-52be399339c6" />
 
 
 최근 수정일: 2026년 6월 15일
